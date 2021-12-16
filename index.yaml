@@ -551,6 +551,21 @@ entries:
   fastapi:
   - apiVersion: v2
     appVersion: "1.0"
+    created: "2021-12-16T22:23:29.576668685Z"
+    description: A Helm chart for Kubernetes
+    digest: 062a842d82dbbecb1f408f68238c1b3019b481945437946d5341d024c42af075
+    home: https://helm.sh/helm
+    maintainers:
+    - email: email@example.com
+      name: Gilles De Muynck
+    name: fastapi
+    sources:
+    - https://github.com/helm/helm
+    urls:
+    - https://github.com/DeMuynckGilles/helm-imdb-project/releases/download/fastapi-1.0.1/fastapi-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: "1.0"
     created: "2021-12-16T21:40:54.66518975Z"
     description: A Helm chart for Kubernetes
     digest: 2e88c1bbcfce8d0cca25fc6e7035f9bafa8ac9969de79d7c4b02a651e573345e
